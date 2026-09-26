@@ -2,8 +2,6 @@
 #include <math.h>
 
 int main(void) {
-    //Кодування тексту щоб Українські літери нормально виводились на консоль
-    system("chcp 1251 > nul");
 
     double x = 0.0;
     double y = 0.0;
